@@ -1,3 +1,4 @@
 Gitの練習をしていきます
 ・Git Add
 ・Git Commit
+・git Remove
